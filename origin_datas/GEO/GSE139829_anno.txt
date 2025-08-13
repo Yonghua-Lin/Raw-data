@@ -1,0 +1,12 @@
+Samples	Site
+GSM4147091	metastatic
+GSM4147092	metastatic
+GSM4147093	primary
+GSM4147094	primary
+GSM4147095	primary
+GSM4147096	primary
+GSM4147097	primary
+GSM4147098	primary
+GSM4147099	primary
+GSM4147100	metastatic
+GSM4147101	primary
